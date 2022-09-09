@@ -1,0 +1,16 @@
+Checklist
+1. Menu screen
+   -draw styling
+   -figure out HTML styling
+   -
+
+front end request to server (axios?)
+
+customize styling
+
+
+
+FOR NOW
+1. fix jumps
+2. start button
+3. obstacles
